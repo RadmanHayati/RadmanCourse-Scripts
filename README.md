@@ -1,4 +1,3 @@
-# PART2
 # add edit submit button
 
 - 🎯 what do we wanna do?
